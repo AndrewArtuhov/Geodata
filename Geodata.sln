@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geodata", "Geodata\Geodata.csproj", "{FB2E5887-2D88-47E1-AEC6-497AC465D6FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{1154B31D-861E-47ED-AEA2-ECD7E0B38A9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB2E5887-2D88-47E1-AEC6-497AC465D6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2E5887-2D88-47E1-AEC6-497AC465D6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2E5887-2D88-47E1-AEC6-497AC465D6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2E5887-2D88-47E1-AEC6-497AC465D6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1154B31D-861E-47ED-AEA2-ECD7E0B38A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1154B31D-861E-47ED-AEA2-ECD7E0B38A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1154B31D-861E-47ED-AEA2-ECD7E0B38A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1154B31D-861E-47ED-AEA2-ECD7E0B38A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11570480-99E0-4AA4-8E01-B857A8F4061F}
+	EndGlobalSection
+EndGlobal
